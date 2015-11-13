@@ -48,6 +48,54 @@
           49.89512683512663
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#515cac",
+        "marker-size": "medium",
+        "marker-symbol": "playground",
+        "Lieu": "Parc René Goblet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3035240173339844,
+          49.89112151562553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "playground",
+        "marker-size": "medium",
+        "marker-color": "#515cac",
+        "Lieu": "Parc de Camon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3527050018310547,
+          49.88335356604441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#515cac",
+        "marker-size": "medium",
+        "marker-symbol": "playground",
+        "Lieu": "Parc Mistral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.317718267440796,
+          49.868100900806894
+        ]
+      }
     }
   ]
 }
