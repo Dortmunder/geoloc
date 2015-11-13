@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#515cac",
+        "marker-size": "medium",
+        "marker-symbol": "playground",
+        "Lieu": "Parc Saint Pierre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3069840669631954,
+          49.900728195489286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#515cac",
+        "marker-size": "medium",
+        "marker-symbol": "playground",
+        "Lieu": "Parc de la Hotoie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2756853699684143,
+          49.89857549789486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "playground",
+        "marker-size": "medium",
+        "marker-color": "#515cac",
+        "Lieu": "Parc Faidherbe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.287200093269348,
+          49.89512683512663
+        ]
+      }
+    }
+  ]
+}
