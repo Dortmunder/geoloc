@@ -96,6 +96,118 @@
           49.868100900806894
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "playground",
+        "marker-size": "medium",
+        "marker-color": "#515cac",
+        "Lieu": "Allée des rencontres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.313775420188904,
+          49.8734633909557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#515cac",
+        "marker-size": "medium",
+        "marker-symbol": "playground",
+        "Lieu": "Maison de la Culture"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.291598916053772,
+          49.89370479469323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "playground",
+        "Lieu": "Parc du Grand Marais",
+        "marker-size": "medium",
+        "marker-color": "#515cac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2616493701934814,
+          49.9192605717174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#515cac",
+        "marker-size": "medium",
+        "marker-symbol": "playground",
+        "Lieu": "Parc Saint Ladre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2964000701904297,
+          49.92141580009598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "playground",
+        "marker-size": "medium",
+        "marker-color": "#515cac",
+        "Lieu": "Rue Ravel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.304956316947937,
+          49.913730450504495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#515cac",
+        "marker-size": "medium",
+        "marker-symbol": "playground",
+        "Lieu": "Parc Rostand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.306227684020996,
+          49.88395154383643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#515cac",
+        "marker-size": "medium",
+        "marker-symbol": "playground",
+        "Lieu": "Square Beauregard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3029232025146484,
+          49.8807645478369
+        ]
+      }
     }
   ]
 }
